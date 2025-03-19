@@ -31,7 +31,7 @@ This program efficiently indexes the genome using a hash table and provides vari
 
 ## 🔢 Hash Function
 The hash function computes the **hash value** by summing the **ASCII values** of the characters in the k-mer  
-and taking the **modulus with the table size**:
+and taking the **modulus with the table size**
 
 
 
@@ -57,7 +57,6 @@ and taking the **modulus with the table size**:
 ## 🛠 Installation & Usage  
 
 ### 1️⃣ Clone the Repository  
-```sh
 git clone https://github.com/your-username/kmers-in-DNA.git
 cd kmers-in-DNA
 
